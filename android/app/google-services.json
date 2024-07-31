@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428884581112",
+    "project_id": "greentaxi-475a8",
+    "storage_bucket": "greentaxi-475a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428884581112:android:5ad4679da1f9d4d075b90d",
+        "android_client_info": {
+          "package_name": "com.dotcoder.green_taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKUhjm60DAU4m8Av55T5thD4qTWSCdpfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
